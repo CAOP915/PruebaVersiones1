@@ -1,0 +1,6 @@
+Hola esta es una prueba de 
+versionalizar archivos en Git 
+con Guid y Carlitos y 
+con el que vea este video. 
+
+Espero que te encuentres bien.
